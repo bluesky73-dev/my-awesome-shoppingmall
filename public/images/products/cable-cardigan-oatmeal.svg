@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="1200" viewBox="0 0 900 1200">
+  <rect width="900" height="1200" fill="#F5F2EA"/>
+  <rect x="42" y="42" width="816" height="1116" fill="none" stroke="#DCD5C6" stroke-width="1.5"/>
+  <path d="M415 348 L360 372 L298 408 L278 685 L326 695 L350 545 L350 760 L550 760 L550 545 L574 695 L622 685 L602 408 L540 372 L485 348 L450 430 Z" fill="#E4DCCB" stroke="#5C554B" stroke-width="4" stroke-linejoin="round"/>
+  <path d="M415 348 L450 430 L485 348" fill="none" stroke="#5C554B" stroke-width="3.5" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M450 430 L450 760" fill="none" stroke="#5C554B" stroke-width="3.5" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M281 655 L329 665" fill="none" stroke="#5C554B" stroke-width="3.5" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M571 665 L619 655" fill="none" stroke="#5C554B" stroke-width="3.5" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M378 645 L426 645 L426 703 L378 703 Z" fill="none" stroke="#5C554B" stroke-width="3.5" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M474 645 L522 645 L522 703 L474 703 Z" fill="none" stroke="#5C554B" stroke-width="3.5" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M367 726 L367 758" fill="none" stroke="#5C554B" stroke-width="3.5" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M384 726 L384 758" fill="none" stroke="#5C554B" stroke-width="3.5" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M401 726 L401 758" fill="none" stroke="#5C554B" stroke-width="3.5" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M418 726 L418 758" fill="none" stroke="#5C554B" stroke-width="3.5" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M435 726 L435 758" fill="none" stroke="#5C554B" stroke-width="3.5" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M452 726 L452 758" fill="none" stroke="#5C554B" stroke-width="3.5" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M469 726 L469 758" fill="none" stroke="#5C554B" stroke-width="3.5" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M486 726 L486 758" fill="none" stroke="#5C554B" stroke-width="3.5" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M503 726 L503 758" fill="none" stroke="#5C554B" stroke-width="3.5" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M520 726 L520 758" fill="none" stroke="#5C554B" stroke-width="3.5" stroke-linecap="round" stroke-linejoin="round"/>
+  <circle cx="450" cy="470" r="5" fill="none" stroke="#5C554B" stroke-width="3"/>
+  <circle cx="450" cy="530" r="5" fill="none" stroke="#5C554B" stroke-width="3"/>
+  <circle cx="450" cy="590" r="5" fill="none" stroke="#5C554B" stroke-width="3"/>
+  <circle cx="450" cy="650" r="5" fill="none" stroke="#5C554B" stroke-width="3"/>
+  <circle cx="450" cy="710" r="5" fill="none" stroke="#5C554B" stroke-width="3"/>
+  <text x="450" y="1108" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="21" letter-spacing="9" fill="#9A9184">NOON ESSENTIAL</text>
+</svg>

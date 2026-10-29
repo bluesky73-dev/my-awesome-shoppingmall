@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="1200" viewBox="0 0 900 1200">
+  <rect width="900" height="1200" fill="#F4F1E8"/>
+  <rect x="42" y="42" width="816" height="1116" fill="none" stroke="#DCD5C6" stroke-width="1.5"/>
+  <path d="M415 350 L352 380 L294 414 L274 690 L322 700 L346 550 L346 835 L554 835 L554 550 L578 700 L626 690 L606 414 L548 380 L485 350 L450 368 Z" fill="#A89B7B" stroke="#5C554B" stroke-width="4" stroke-linejoin="round"/>
+  <path d="M415 350 L450 520 L485 350" fill="none" stroke="#5C554B" stroke-width="3.5" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M415 350 L398 385 L442 455" fill="none" stroke="#5C554B" stroke-width="3.5" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M485 350 L502 385 L458 455" fill="none" stroke="#5C554B" stroke-width="3.5" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M346 600 L554 600" fill="none" stroke="#5C554B" stroke-width="3.5" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M346 630 L554 630" fill="none" stroke="#5C554B" stroke-width="3.5" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M436 592 L464 592 L464 638 L436 638 Z" fill="none" stroke="#5C554B" stroke-width="3.5" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M368 374 L412 358" fill="none" stroke="#5C554B" stroke-width="3.5" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M532 374 L488 358" fill="none" stroke="#5C554B" stroke-width="3.5" stroke-linecap="round" stroke-linejoin="round"/>
+  
+  <text x="450" y="1108" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="21" letter-spacing="9" fill="#9A9184">NOON ESSENTIAL</text>
+</svg>
